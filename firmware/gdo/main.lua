@@ -1,0 +1,3 @@
+--[[
+	GDO main script
+]]--
